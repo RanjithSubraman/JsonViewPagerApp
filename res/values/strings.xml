@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cloth Collection</string>
+
+    <!-- Menu Strings -->
+    <string name="action_rateapp">Rate App</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">About</string>
+    <string name="action_search">Search</string>
+
+</resources>
